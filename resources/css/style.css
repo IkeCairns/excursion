@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: verdana, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-family: verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-family: verdana, sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.down {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.material {
+  display: block;
+  margin: 0 auto;
+}
+
+#phone {
+  margin-top: 20px;
+}
+
+#copy {
+  text-align: right;
+}
